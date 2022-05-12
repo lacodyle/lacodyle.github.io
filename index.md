@@ -23,14 +23,10 @@ classification of obesity levels. Project analyzed for DSC478: Programming Machi
 
 ---
 
-### Category 2
-
-
 
 ---
 
 
-
-
 ---
 
+<center>© 2022 Cody Le. Powered by Jekyll and Hosted on Github.</center>
