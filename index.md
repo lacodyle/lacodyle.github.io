@@ -10,7 +10,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
-<br><br>
+<br>
 Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing
 obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habits or daily activities most affect the 
 classification of obesity levels. Project analyzed for DSC478: Programming Machine Learning at DPU. <br>
