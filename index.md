@@ -8,7 +8,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)<br>
 [![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080%20?logo=GitHub)](https://github.com/lacodyle/obesity_level_analysis)
-[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Obesity_Level Analysis_Report.pdf)
+[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](https://github.com/lacodyle/obesity_level_analysis/blob/main/Report/Obesity_Level%20Analysis_Report.pdf)
 <br><br>
 
 Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing
