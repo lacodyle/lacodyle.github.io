@@ -3,12 +3,12 @@
 ---
 
 ### Machine Learning Projects
-
+---
 #### Obesity Level Analysis in Adult Population in Latin America 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)-Cluster Analysis<br>
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)-Feature Selection<br>
-<br>
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lacodyle/obesity_level_analysis)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)<br>
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)<br>
+[![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080%20?logo=GitHub)](https://github.com/lacodyle/obesity_level_analysis)
+[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](projects/Obesity_Level Analysis_Report.pdf)
 <br><br>
 
 Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing
