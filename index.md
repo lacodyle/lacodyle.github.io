@@ -5,7 +5,7 @@
 ### Machine Learning Projects
 ---
 #### Obesity Level Analysis in Adult Population in Latin America 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)<br>
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)<br>
 [![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080%20?logo=GitHub)](https://github.com/lacodyle/obesity_level_analysis)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](projects/Obesity_Level Analysis_Report.pdf)
@@ -23,13 +23,9 @@ classification of obesity levels. Project analyzed for DSC478: Programming Machi
 
 ---
 
-### Category Name 2
+### Category 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
