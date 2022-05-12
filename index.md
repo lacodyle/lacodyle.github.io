@@ -5,12 +5,14 @@
 ### Machine Learning Projects
 
 #### Obesity Level Analysis in Adult Population in Latin America 
-[![Open Cluster Analysis Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)!
-[![Open Feature Selection Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)!
+[![Open Cluster Analysis Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
+[![Open Feature Selection Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/lacodyle/obesity_level_analysis)
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Obesity Level Analysis in Adult Population in Latin America](/projects/ClusterAnalysis-ObesityLevels.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
