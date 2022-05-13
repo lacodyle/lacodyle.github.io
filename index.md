@@ -5,7 +5,7 @@
 ### Machine Learning Projects
 
 #### Obesity Level Analysis in Adult Population in Latin America 
-<i>Project analyzed for DSC478: Programming Machine Learning at DPU | November 2021 </i><br>
+<i>Project analyzed for DSC478: Machine Learning Applications at DPU | November 2021 </i><br>
 [![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=Jupyter)](https://github.com/lacodyle/obesity_level_analysis)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Obesity_Level_Analysis_Report.pdf)<br>
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
