@@ -18,7 +18,7 @@ Analysis of Obesity Levels including cluster analysis for data exploration, clas
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
 
---
+---
 #### Classifying Wild Edible Flowers by Color Segmentation and Histogram of Oriented Gradients
 <i>Analyzed in MATLAB for CSC481: Intro to Image Processing at DPU </i> | 
      November 2021<br>
