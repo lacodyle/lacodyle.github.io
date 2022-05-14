@@ -41,7 +41,7 @@ flower class sizes to determine the most optimal parameters for model performanc
 <br>
 Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. In this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
 
-<img src="images/GeneExpression.png?raw=true"/> 
+<a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/GeneExpression.png?raw=true"/> </a>
 
 ---
 
