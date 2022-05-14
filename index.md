@@ -20,7 +20,7 @@ Analysis of Obesity Levels including cluster analysis for data exploration, clas
 
 ---
 #### Classifying Wild Edible Flowers by Color Segmentation and Histogram of Oriented Gradients
-<i>Analyzed in MATLAB for CSC481: Intro to Image Processing at DPU       </i> | 
+<i>Analyzed in MATLAB for CSC481: Introduction to Image Processing at DPU </i> | 
                 November 2021<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/WildEdibleFlowersClassification.pdf)<br>
@@ -34,11 +34,11 @@ flower class sizes to determine the most optimal parameters for model performanc
 
 ---
 #### Exploring Gene Expression Features through PCA and Factor Analysis in Breast Cancer Patients 
-<i>Analyzed in R for DSC424: Advanced Data Analysis at DPU       </i> | 
+<i>Analyzed in R for DSC424: Advanced Data Analysis at DPU </i> | 
                 June 2021<br>
 [![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=Jupyter)](https://github.com/lacodyle/breast_cancer_gene_expression)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
-<br>
+<br><br>
 Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. In this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
 
 <a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/GeneExpression.png?raw=true"/> </a>
