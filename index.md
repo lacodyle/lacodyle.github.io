@@ -21,7 +21,7 @@ Analysis of Obesity Levels including cluster analysis for data exploration, clas
 ---
 #### Classifying Wild Edible Flowers by Color Segmentation and Histogram of Oriented Gradients
 <i>Analyzed in MATLAB for CSC481: Intro to Image Processing at DPU </i> | 
-     November 2021<br>
+                November 2021<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/WildEdibleFlowersClassification.pdf)<br>
 <br>
