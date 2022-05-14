@@ -37,7 +37,7 @@ flower class sizes to determine the most optimal parameters for model performanc
 <i>Analyzed in R for DSC424: Advanced Data Analysis at DPU       </i> | 
                 June 2021<br>
 [![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=Jupyter)](https://github.com/lacodyle/breast_cancer_gene_expression)
-[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
+[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
 <br>
 Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. In this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
 
