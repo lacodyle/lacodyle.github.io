@@ -12,11 +12,11 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
-
-Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habits or daily activities most affect the classification of obesity levels. <br><br>
+Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habits or daily activities most affect the classification of obesity levels. <br>
 
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
+<br>
 
 ---
 #### Classifying Wild Edible Flowers by Color Segmentation and Histogram of Oriented Gradients
@@ -27,7 +27,7 @@ Analysis of Obesity Levels including cluster analysis for data exploration, clas
 <br>
 This analysis explroes the extraction of texture features using histogram of gradients (HOG) for classification of images of wild edible flowers
 using support vector machines (SVM). The preprocessing involves color segmentation and compares different HOG parameter sizes as well as different
-flower class sizes to determine the most optimal parameters for model performance. <br><br>
+flower class sizes to determine the most optimal parameters for model performance. <br>
 
 <a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing"><img src="images/WildFlowers.png?raw=true"/>  
 </a>
