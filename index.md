@@ -1,5 +1,5 @@
 ## Portfolio
----
+
 ---
 
 ### Machine Learning Projects
@@ -30,7 +30,7 @@ using support vector machines (SVM). The preprocessing involves color segmentati
 flower class sizes to determine the most optimal parameters for model performance. <br>
 
 <a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing"><img src="images/WildFlowers.png?raw=true"/>  
-</a>
+</a><br>
 
 ---
 ---
