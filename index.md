@@ -57,7 +57,7 @@ Comparsion of the impact of COVID-19 on airport travel in the United States and 
 <br><br>
 Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. Leading this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
 
-<a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/GeneExpression.png?raw=true"/> </a>
+<a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/gene_expression.png?raw=true"/> </a>
 
 ---
 
