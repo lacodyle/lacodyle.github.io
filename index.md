@@ -1,5 +1,5 @@
 ## Portfolio
-
+---
 ---
 
 ### Machine Learning Projects
@@ -32,6 +32,7 @@ flower class sizes to determine the most optimal parameters for model performanc
 <a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing"><img src="images/WildFlowers.png?raw=true"/>  
 </a>
 
+---
 ---
 
 ### Data Exploration and Visualization Projects
