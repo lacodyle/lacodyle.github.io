@@ -6,7 +6,7 @@ Hello! Welcome to Cody's Website and Portfolio.
 The site will be updated with new projects on an ongoing basis. 
 
 Thanks for stopping by and see you soon! ^^
-
+lacodyle.github.io/
 
 
 
