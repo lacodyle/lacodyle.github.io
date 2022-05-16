@@ -9,7 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   DePaul University - College of Computing & Digital Media. <br><br>
   <a href="mailto: lacodyle@gmail.com"><img src="https://img.shields.io/badge/-Email-68edc5?logo=google"/> </a> 
   <a href="pdf/CodyLe-Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0cab90?logo=adobe"/></a> 
-  <a href="https://www.linkedin.com/in/lacodyle/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin"/></a>  
+  <a href="https://www.linkedin.com/in/lacodyle/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin"/></a>
+  <a href="https://github.com/lacodyle"><img src="https://img.shields.io/badge/-Github-5442f5?logo=github/></a>
   
   
 theme: jekyll-theme-minimal
