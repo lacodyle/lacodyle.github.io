@@ -2,7 +2,7 @@
 
 ---
 
-### Machine Learning Projects
+### Machine Learning Projects //
 
 #### Obesity Level Analysis in Adult Population in Latin America 
 <i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
@@ -35,7 +35,7 @@ flower class sizes to determine the most optimal parameters for model performanc
 ---
 ---
 
-### Data Exploration and Visualization Projects
+### Data Exploration and Visualization Projects //
 
 #### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
 <i>Visualized in R for DSC465: Data Visualization at DPU </i> | 
