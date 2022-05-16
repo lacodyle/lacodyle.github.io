@@ -44,8 +44,9 @@ flower class sizes to determine the most optimal parameters for model performanc
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
 Comparsion of the impact of COVID-19 on airport travel in the United States and Canada. Leading this group project, I focused on ridgeline and violin plots using custom color schemes to display dynamic statistical and geographical data. 
 
-<a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br>br>
+<a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
 
+---
 
 #### Exploring Gene Expression Features through PCA and Factor Analysis in Breast Cancer Patients 
 <i>Analyzed in R for DSC424: Advanced Data Analysis at DPU </i> | 
