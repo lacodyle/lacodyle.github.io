@@ -7,7 +7,7 @@
 #### Obesity Level Analysis in Adult Population in Latin America 
 <i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
      November 2021<br>
-[![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=github)](https://github.com/lacodyle/obesity_level_analysis)
+[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/obesity_level_analysis)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Obesity_Level_Analysis_Report.pdf)<br>
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
@@ -40,7 +40,7 @@ flower class sizes to determine the most optimal parameters for model performanc
 #### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
 <i>Visualized in R for DSC465: Data Visualization at DPU </i> | 
                 March 2022<br>
-[![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
+[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/COVID_Impact_Airport_Travel_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
 Comparsion of the impact of COVID-19 on airport travel in the United States and Canada. Leading this group project, I focused on ridgeline and violin plots using custom color schemes to display dynamic statistical and geographical data. 
@@ -52,7 +52,7 @@ Comparsion of the impact of COVID-19 on airport travel in the United States and 
 #### Exploring Gene Expression Features through PCA and Factor Analysis in Breast Cancer Patients 
 <i>Analyzed in R for DSC424: Advanced Data Analysis at DPU </i> | 
                 June 2021<br>
-[![View in GitHub](https://img.shields.io/badge/Github-View%20in%20Github-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
+[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
 <br><br>
 Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. Leading this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
