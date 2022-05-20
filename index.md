@@ -4,7 +4,7 @@
 
 ### Machine Learning Projects //
 
-#### Obesity Level Analysis in Adult Population in Latin America 
+#### Obesity Level Analysis of Adult Population in Latin America 
 <i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
      November 2021<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/obesity_level_analysis)
@@ -12,22 +12,21 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
-Analysis of Obesity Levels including cluster analysis for data exploration, classification, and feature selection to analyze a dataset containing obesity levels among adults from Mexico, Peru, and Columbia and determine which specific eating habits or daily activities most affect the classification of obesity levels. <br>
+Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br>
+Team Role: Lead<br>
 
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
 <br>
 
 ---
-#### Classifying Wild Edible Flowers by Color Segmentation and Histogram of Oriented Gradients
+#### Classifying Wild Edible Flowers by Color Segmentation with a Histogram of Oriented Gradients
 <i>Analyzed in MATLAB for CSC481: Introduction to Image Processing at DPU </i> | 
                 November 2021<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/WildEdibleFlowersClassification.pdf)<br>
 <br>
-This analysis explores the extraction of texture features using histogram of gradients (HOG) for classification of images of wild edible flowers
-using support vector machines (SVM). The preprocessing involves color segmentation and compares different HOG parameter sizes as well as different
-flower class sizes to determine the most optimal parameters for model performance. <br>
+Analysis explores the extraction of texture features using a histogram of gradients (HOG) for image classification for wild edible flowers using support vector machines (SMV). The preprocessing involves color segmentation and compares different HOG parameter sizes as well as different flower class sizes to determine the most optimal parameters for model performance and classification. <br>
 
 <a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing"><img src="images/WildFlowers.png?raw=true"/>  
 </a><br>
@@ -43,7 +42,8 @@ flower class sizes to determine the most optimal parameters for model performanc
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/COVID_Impact_Airport_Travel_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
-Comparsion of the impact of COVID-19 on airport travel in the United States and Canada. Leading this group project, I focused on ridgeline and violin plots using custom color schemes to display dynamic statistical and geographical data. 
+Analysis compares the impact of COVID-19 on airport travel in the United STates and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br>
+Team Role: Lead <br>
 
 <a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
 
@@ -55,7 +55,8 @@ Comparsion of the impact of COVID-19 on airport travel in the United States and 
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
 <br><br>
-Analysis of breast cancer clincial features and gene expression features to explore their relationship with patient survival rate. Leading this group project, my focus explored dimensionality reduction using principal component analysis, factor analysis, and cluster analysis on the gene expression features. 
+Analysis determines whether breast cancer clinicial features and gene expression features predict patient survival rates. Data was reduced using principal component analysis, factor analysis, and cluster analysis on gene expression features to better understand the predictive value of the model. <br>
+Team Role: Lead<br>
 
 <a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/gene_expression.png?raw=true"/> </a>
 
