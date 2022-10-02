@@ -16,6 +16,8 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 </a>
 <br>
 
+---
+
 #### Obesity Level Analysis of Adult Population in Latin America 
 <i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
      November 2021<br>
