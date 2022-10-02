@@ -4,6 +4,18 @@
 
 ### Machine Learning Projects //
 
+#### Automotive and Semiconductor Supply Chain Analysis in the United States and South Korea
+<i>Analyzed in Python for DSKUS Global Lab: Global Data Science Exchange Program </i> | 
+     June 2022<br>
+[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/SupplyChainAnalysis_Report.pdf)
+[![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf)<br>
+<br>
+Investigated the impact of COVID-19 pandemic on the supply chain by examining trade, production, and manufacturing capacity of the automotive and semiconductor industries in the United States and South Korea. Collected and merged existing data from various government sources to explore trade and manufacturing data between the two industries with COVID-19 data such as infections, testing, vaccinations, stringency and government response for analysis. Feature selection was performed to identify salient COVID-19 features that affect trade, production, and manufacturing which was used to build a forecasting model using Gated Recurrent Unit (GRU) to predict future response to target variable under the change of feature variables. <br>
+<i>Team Role: Lead, Data Preprocessing, Presentation and Visuals</i><br>
+<a href="pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf"><img src="images/supply_chain_analysis.png?raw=true"/>  
+</a>
+<br>
+
 #### Obesity Level Analysis of Adult Population in Latin America 
 <i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
      November 2021<br>
