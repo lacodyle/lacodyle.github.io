@@ -25,7 +25,7 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
 Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br>
-<i>Team Role: Team Lead, Data Preprocessing, Cluster Analysis, Feature Analysis, Report Writing, and Presentation </i><br>
+<i>Team Role: Team Lead, Data Preprocessing, Cluster Analysis, Feature Selection, Report Writing, and Presentation </i><br>
 
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
