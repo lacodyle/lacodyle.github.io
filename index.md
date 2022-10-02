@@ -10,7 +10,7 @@
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/SupplyChainAnalysis_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf)<br>
 <br>
-Investigated the impact of COVID-19 pandemic on the supply chain by examining trade, production, and manufacturing capacity of the automotive and semiconductor industries in the United States and South Korea. Collected and merged existing data between the two industries from various government sources from the two countries. Feature selection was performed to identify salient COVID-19 features that affect trade, production, and manufacturing which was then used to build a forecasting model using Gated Recurrent Unit (GRU) to predict future response to target variables under the change of feature selected variables. <br>
+Investigated the impact of COVID-19 pandemic on the supply chain by examining trade, production, and manufacturing capacity of the automotive and semiconductor industries in the United States and South Korea. Collected and merged existing data between the two industries from various government sources from the two countries. Feature selection was performed to identify salient COVID-19 features that affect trade, production, and manufacturing which was then used to build a forecasting model using Gated Recurrent Unit (GRU) to predict future response to target variables under the change of feature selected variables. <br><br>
 <i>Team Role: Lead, Preprocessing, Report Writing, Presentation and Visuals</i><br><br>
 <a href="pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf"><img src="images/supply_chain_analysis.png?raw=true"/>  
 </a>
@@ -26,7 +26,7 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
-Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br>
+Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br><br>
 <i>Team Role: Lead, Data Preprocessing, Cluster Analysis, Feature Selection, Report Writing, and Presentation </i><br>
 
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
@@ -56,7 +56,7 @@ Analysis explores the extraction of texture features using a histogram of gradie
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/COVID_Impact_Airport_Travel_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
-Analysis compares the impact of COVID-19 on airport travel in the United STates and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br>
+Analysis compares the impact of COVID-19 on airport travel in the United STates and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br><br>
 <i>Team Role: Lead, Preprocessing, Ridgeline and Violin Plots </i><br>
 
 <a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
@@ -69,7 +69,7 @@ Analysis compares the impact of COVID-19 on airport travel in the United STates 
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
 <br><br>
-Analysis determines whether breast cancer clinicial features and gene expression features predict patient survival rates. Data was reduced using principal component analysis, factor analysis, and cluster analysis on gene expression features to better understand the predictive value of the model. <br>
+Analysis determines whether breast cancer clinicial features and gene expression features predict patient survival rates. Data was reduced using principal component analysis, factor analysis, and cluster analysis on gene expression features to better understand the predictive value of the model. <br><br>
 <i>Team Role: Lead, Preprocessing, PCA/FA Analysis, Cluster Analysis </i><br>
 
 <a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/gene_expression.png?raw=true"/> </a>
