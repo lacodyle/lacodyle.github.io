@@ -8,9 +8,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Current graduate student pursuing a M.S. in Data Science at
   DePaul University - College of Computing & Digital Media. <br><br>
   <a href="mailto: lacodyle@gmail.com"><img src="https://img.shields.io/badge/-Email-68edc5?logo=google"/> </a> 
-  <a href="pdf/CodyLe-Resume2022.pdf"><img src="https://img.shields.io/badge/-Resume-0cab90?logo=adobe"/></a> 
-  <a href="https://www.linkedin.com/in/lacodyle/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin"/></a>
-  <a href="https://github.com/lacodyle"> <img src="https://img.shields.io/badge/-GitHub-3514c9?logo=github"/></a>
+  <a href="pdf/CodyLe-Resume2022.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Resume-0cab90?logo=adobe"/></a> 
+  <a href="https://www.linkedin.com/in/lacodyle/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?logo=linkedin"/></a>
+  <a href="https://github.com/lacodyle" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-GitHub-3514c9?logo=github"/></a>
   
   
 theme: jekyll-theme-minimal
