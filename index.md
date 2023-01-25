@@ -5,7 +5,7 @@
 ### Machine Learning Projects //
 
 #### Automotive and Semiconductor Supply Chain Analysis in the United States and South Korea
-<i>Analyzed in Python for DSKUS Global Lab: Global Data Science Exchange Program </i> | 
+<i>Analyzed with Python for DSKUS Global Lab: Global Data Science Exchange Program </i> | 
      June 2022<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/SupplyChainAnalysis_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf)<br>
@@ -19,7 +19,7 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 ---
 
 #### Obesity Level Analysis of Adult Population in Latin America 
-<i>Analyzed in Python for DSC478: Machine Learning Applications at DPU </i> | 
+<i>Analyzed with Python for DSC478: Machine Learning Applications at DPU </i> | 
      November 2021<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/obesity_level_analysis)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Obesity_Level_Analysis_Report.pdf)<br>
@@ -35,7 +35,7 @@ Cluster analysis was used for data exploration and classification as well as fea
 
 ---
 #### Classifying Wild Edible Flowers by Color Segmentation with a Histogram of Oriented Gradients
-<i>Analyzed in MATLAB for CSC481: Introduction to Image Processing at DPU </i> | 
+<i>Analyzed with MATLAB for CSC481: Introduction to Image Processing at DPU </i> | 
                 November 2021<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/WildEdibleFlowersClassification.pdf)<br>
