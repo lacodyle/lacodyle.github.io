@@ -50,13 +50,23 @@ Analysis explores the extraction of texture features using a histogram of gradie
 
 ### Data Exploration and Visualization Projects //
 
+#### Spatial Analysis and Visualization of the Intersection of HIV and COVID-19 in California 
+<i>Visualized with Python for GEO448: Spatial Data Science at DPU </i> | 
+                November 2022<br>
+[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
+[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV%COVID-19.html)
+Spatial exportation of the intersection of HIV and COVID-19 epidemic in California at the county level. Analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic/minority groups. Through spatial clustering and outlier detection techniques, specific areas in California can be determined as more vulnerable to HIV and/or COVID-19.  Local indicator of spatial autocorrelation (LISA) interactive map is created to show spatial clusters affected by both social vulernabilities and the epidemics. Agglomerative clustering is performed showing key areas experiencing higher social vlunerability specifically with racial and minority status and the exasperation of the two epidemics. <br><br>
+
+<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>       
+
 #### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
-<i>Visualized in R for DSC465: Data Visualization at DPU </i> | 
+<i>Visualized with R for DSC465: Data Visualization at DPU </i> | 
                 March 2022<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/COVID_Impact_Airport_Travel_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
-Analysis compares the impact of COVID-19 on airport travel in the United STates and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br><br>
+Analysis compares the impact of COVID-19 on airport travel in the United States and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br><br>
 <i>Team Role: Lead, Preprocessing, Ridgeline and Violin Plots </i><br>
 
 <a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
@@ -64,7 +74,7 @@ Analysis compares the impact of COVID-19 on airport travel in the United STates 
 ---
 
 #### Exploring Gene Expression Features through PCA and Factor Analysis in Breast Cancer Patients 
-<i>Analyzed in R for DSC424: Advanced Data Analysis at DPU </i> | 
+<i>Analyzed with R for DSC424: Advanced Data Analysis at DPU </i> | 
                 June 2021<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
