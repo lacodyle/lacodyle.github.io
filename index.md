@@ -55,10 +55,10 @@ Analysis explores the extraction of texture features using a histogram of gradie
                 November 2022<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV%COVID-19.html)
-Spatial exportation of the intersection of HIV and COVID-19 epidemic in California at the county level. Analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic/minority groups. Through spatial clustering and outlier detection techniques, specific areas in California can be determined as more vulnerable to HIV and/or COVID-19.  Local indicator of spatial autocorrelation (LISA) interactive map is created to show spatial clusters affected by both social vulernabilities and the epidemics. Agglomerative clustering is performed showing key areas experiencing higher social vlunerability specifically with racial and minority status and the exasperation of the two epidemics. <br><br>
+[![Open Notebook](https://https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV%COVID-19.html)<br><br>
+Analysis explores the spatial relationship between the HIV and COVID-19 epidemic in California at the county level. The spatial exploration focuses on analyzing new infection rates between the two epidemics and its impact on ethnic/minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  Local indicator of spatial autocorrelation (LISA) interactive map was created to show spatial clusters affected by both social vulernabilities and either epidemic. Agglomerative clustering was performed showing key areas experiencing higher social vlunerability specifically with racial and minority status. <br><br>
 
-<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>       
+<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>       
 
 #### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
 <i>Visualized with R for DSC465: Data Visualization at DPU </i> | 
