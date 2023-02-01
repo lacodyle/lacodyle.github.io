@@ -4,6 +4,20 @@
 
 ### Machine Learning Projects //
 
+#### Predicting Patient Stay Days (Length of Stay in Hospital): Classification Models for Imbalanced Target Variable 
+<i>Analyzed with Python for DSC540: Advanced Machine Learning at DPU </i> | 
+     November 2022<br>
+[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/patient_length_of_stay)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ClassificationModels-PatientLOS.html)<br><br>
+
+Description to be added. <br><br>
+
+<a href="https://github.com/lacodyle/patient_length_of_stay"><img src="images/Patient_LOS.png?raw=true"/>  
+</a>
+<br>
+
+---
+
 #### Automotive and Semiconductor Supply Chain Analysis in the United States and South Korea
 <i>Analyzed with Python for DSKUS Global Lab: Global Data Science Exchange Program </i> | 
      June 2022<br>
@@ -58,7 +72,9 @@ Analysis explores the extraction of texture features using a histogram of gradie
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
 Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. The analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
 
-<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>       
+<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>  
+
+---
 
 #### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
 <i>Visualized with R for DSC465: Data Visualization at DPU </i> | 
