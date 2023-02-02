@@ -10,7 +10,7 @@
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/patient_length_of_stay)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ClassificationModels-PatientLOS.html)<br><br>
 
-Analysis explores classification models for predicting a multi-class categorical target using various hospital related features without patient demographics except patients’ age range. Extensive data preprocessing was explored including data encoding, outlier removal, and feature transformations to off set data imbalance. Tree, boosting, and histogram models were most effective for classification and optimized models using multi-class ensembles and voting ensembles were implemented. <br><br>
+Analysis explores classification models for predicting a multi-class categorical target using various hospital related predictor features without patient demographics except patients’ age range. Extensive data preprocessing was explored including data encoding, outlier removal, and feature transformations to off set data imbalance. Tree, boosting, and histogram models were most effective for classification and optimized models using multi-class ensembles and voting ensembles were implemented. <br><br>
 <a href="https://github.com/lacodyle/patient_length_of_stay" target="_blank" rel="noopener noreferrer"><img src="images/Patient_LOS.png?raw=true"/>  
 </a>
 <br>
