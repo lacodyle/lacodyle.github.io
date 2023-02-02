@@ -12,7 +12,7 @@
 
 Description to be added. <br><br>
 
-<a href="https://github.com/lacodyle/patient_length_of_stay"><img src="images/Patient_LOS.png?raw=true"/>  
+<a href="https://github.com/lacodyle/patient_length_of_stay" target="_blank" rel="noopener noreferrer"><img src="images/Patient_LOS.png?raw=true"/>  
 </a>
 <br>
 
@@ -26,7 +26,7 @@ Description to be added. <br><br>
 <br>
 Investigated the impact of COVID-19 pandemic on the supply chain by examining trade, production, and manufacturing capacity of the automotive and semiconductor industries in the United States and South Korea. Collected and merged existing data between the two industries from various government sources from the two countries. Feature selection was performed to identify salient COVID-19 features that affect trade, production, and manufacturing which was then used to build a forecasting model using Gated Recurrent Unit (GRU) to predict future response to target variables under the change of feature selected variables. <br><br>
 <i>Team Role: Lead, Preprocessing, Report Writing, Presentation and Visuals</i><br><br>
-<a href="pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf"><img src="images/supply_chain_analysis.png?raw=true"/>  
+<a href="pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf" target="_blank" rel="noopener noreferrer"><img src="images/supply_chain_analysis.png?raw=true"/>  
 </a>
 <br>
 
@@ -43,7 +43,7 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br><br>
 <i>Team Role: Lead, Data Preprocessing, Cluster Analysis, Feature Selection, Report Writing, and Presentation </i><br>
 
-<a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing"><img src="images/ObesityLevels.png?raw=true"/>  
+<a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
 <br>
 
@@ -56,7 +56,7 @@ Cluster analysis was used for data exploration and classification as well as fea
 <br>
 Analysis explores the extraction of texture features using a histogram of gradients (HOG) for image classification for wild edible flowers using support vector machines (SMV). The preprocessing involves color segmentation and compares different HOG parameter sizes as well as different flower class sizes to determine the most optimal parameters for model performance and classification. <br>
 
-<a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing"><img src="images/WildFlowers.png?raw=true"/>  
+<a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="images/WildFlowers.png?raw=true"/>  
 </a><br>
 
 ---
@@ -72,7 +72,7 @@ Analysis explores the extraction of texture features using a histogram of gradie
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
 Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. The analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
 
-<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>  
+<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid" target="_blank" rel="noopener noreferrer"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>  
 
 ---
 
@@ -85,7 +85,7 @@ Analysis explores the spatial relationship between the HIV and COVID-19 in Calif
 Analysis compares the impact of COVID-19 on airport travel in the United States and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br><br>
 <i>Team Role: Lead, Preprocessing, Ridgeline and Violin Plots </i><br>
 
-<a href="https://github.com/lacodyle/covid_impact_on_travel"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
+<a href="https://github.com/lacodyle/covid_impact_on_travel" target="_blank" rel="noopener noreferrer"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
 
 ---
 
@@ -98,7 +98,7 @@ Analysis compares the impact of COVID-19 on airport travel in the United States 
 Analysis determines whether breast cancer clinicial features and gene expression features predict patient survival rates. Data was reduced using principal component analysis, factor analysis, and cluster analysis on gene expression features to better understand the predictive value of the model. <br><br>
 <i>Team Role: Lead, Preprocessing, PCA/FA Analysis, Cluster Analysis </i><br>
 
-<a href="https://github.com/lacodyle/breast_cancer_gene_expression"><img src="images/gene_expression.png?raw=true"/> </a>
+<a href="https://github.com/lacodyle/breast_cancer_gene_expression" target="_blank" rel="noopener noreferrer"><img src="images/gene_expression.png?raw=true"/> </a>
 
 ---
 
