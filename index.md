@@ -45,17 +45,6 @@ Cluster analysis was used for data exploration and classification as well as fea
 </a>
 <br>
 
----
-#### Classifying Wild Edible Flowers by Color Segmentation with a Histogram of Oriented Gradients
-<i>Analyzed with MATLAB for CSC481: Introduction to Image Processing at DPU </i> | 
-                November 2021<br>
-[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ClassifyingWildEdibleFlowers_Report.pdf)
-[![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/WildEdibleFlowersClassification.pdf)<br>
-<br>
-Analysis explores the extraction of texture features using a histogram of gradients (HOG) for image classification for wild edible flowers using support vector machines (SMV). The preprocessing involves color segmentation and compares different HOG parameter sizes as well as different flower class sizes to determine the most optimal parameters for model performance and classification. <br>
-
-<a href="https://drive.google.com/file/d/1-1Gdw-XOt6csV8-hiof34ie1AGxH5Z0Q/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="images/WildFlowers.png?raw=true"/>  
-</a><br>
 
 ---
 ---
