@@ -50,6 +50,11 @@ Cluster analysis was used for data exploration and classification as well as fea
 ---
 
 ### Data Exploration and Visualization Projects //
+<br> 
+Testing //
+<iframe title="EPLC_Dash_VerCL" width="1140" height="541.25" src="https://app.powerbigov.us/reportEmbed?reportId=3d194e30-c647-442f-b697-f85432a83ae4&autoAuth=true&ctid=9ce70869-60db-44fd-abe8-d2767077fc8f" frameborder="0" allowFullScreen="true"></iframe>
+
+---
 
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
 <i>Visualized with Python for GEO448: Spatial Data Science at DPU </i> | 
