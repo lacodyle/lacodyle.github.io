@@ -53,14 +53,18 @@ Cluster analysis was used for data exploration and classification as well as fea
 
 #### Dashboard: IT Security Metrics - Application Vulnerabiltiies
 <i>Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
-Platform: Microsoft PowerBI | Data Source: Log-style data from an application security platform<br>
-Data Orcheastration: Ingested bi-monthly by API through Microsoft Power Automate to SQL Database<br>
-Stakeholders: IT Security Managers and Officers | End-Users: Center and Division Leadership<br></i>
+Platform: PowerBI | Data Source: Log-style Data<br>
+Orcheastration: Data ingested by API using Power Automate to SQL Database<br>
+Stakeholders: IT Security Officers | End-Users: Leadership/Managers</i><br>
+[![View PDF Version of Dashboard with Mock Data](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/ITSecurity_Metrics_Dashboard_CL.pdf.pdf)
 <br>
-This dashboard provides metrics for application vulnerabilities with month-over-month analytics focusing on key performance indicators (KPIs) such as risk accessment, percentage of vulernability severity, number of vulnerabilities cleared versus pending/in-review,and most frequent type of vulnerability issue. This dashboard provides a monthly snapshot and summary to leadership displaying the progress of an IT Security Team with assessing an application for security weaknesses and remediating them to clear any vulnerabilities and reduce cybersecurity risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data and meeting compliance requirements.<br>
+This dashboard provides KPIs such as risk accessment and vulnerability severity through month-over-month analytics focused on remediation efforts. This dashboard provides a monthly snapshot and summary of these efforts to leadership to better understand their applications current security weaknesses, progress of remediation, and most frequent type of risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data, meeting compliance requirements, and reducing cybersecurity risks in their deployed applications. 
 <br>
-Mock Version: 2 version variations | Data: Synethic Data Created for Portfolio 
-<a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer"><img src="images/SSPO_Dash.png?raw=true"/>  </a><br><br> 
+<br>
+<a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="images/SSPO_Dash.png?raw=true" style="border: 2px solid #008080;" alt="IT Security Metrics Dashboard"/>
+</a>
+<br><br> 
 
 ---
 
