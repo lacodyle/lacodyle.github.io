@@ -69,12 +69,13 @@ This dashboard provides KPIs such as risk accessment and vulnerability severity 
 ---
 
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
-Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
-Platform: Python / Jupyter Notebook | Data Source: Publicly available data from AIDsVu, CDPH, and CDC SVI<br>
+<i>Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
+Data Source: Datasets from AIDsVu, CDPH, and CDC SVI<br>
+Platform: Python / Jupyter Notebook<br></i>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
-Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. The analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
+Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. Analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups is the focus. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
 
 <a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid" target="_blank" rel="noopener noreferrer">
      <img src="images/spatial_analysis_hiv_covid.png?raw=true" style="border: 3px solid #CC7CB4;" alt="Spatial Analysis"/> </a><br><br>  
