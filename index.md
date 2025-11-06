@@ -24,7 +24,7 @@ Platform: Python | Data Source: Various Datasets from Government Agencies</i>
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf)<br>
 <br>
 Investigated the impact of COVID-19 pandemic on the supply chain by examining trade, production, and manufacturing capacity of the automotive and semiconductor industries in the United States and South Korea. Collected and merged existing data between the two industries from various government sources from the two countries. Feature selection was performed to identify salient COVID-19 features that affect trade, production, and manufacturing which was then used to build a forecasting model using Gated Recurrent Unit (GRU) to predict future response to target variables under the change of feature selected variables. <br><br>
-<i>Team Role: Lead, Preprocessing, Report Writing, Presentation and Visuals</i><br><br>
+
 <a href="pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf" target="_blank" rel="noopener noreferrer"><img src="images/supply_chain_analysis.png?raw=true"/>  
 </a>
 <br>
