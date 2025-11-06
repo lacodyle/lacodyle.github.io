@@ -42,7 +42,7 @@ Platform: Python | Data Source: UCI Machine Learning Repository</i>
 
 Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br><br>
 
-<a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="images/ObesityLevels.png?raw=true"/>  
+<a href="https://github.com/lacodyle/obesity_level_analysis" target="_blank" rel="noopener noreferrer"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
 <br>
 
