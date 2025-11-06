@@ -52,17 +52,17 @@ Cluster analysis was used for data exploration and classification as well as fea
 ### Analytics and Visualization //
 
 #### Dashboard: IT Security Metrics - Application Vulnerabiltiies
-Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
+<i>Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
 Platform: Microsoft PowerBI | Data Source: Log-style data from an application security platform<br>
 Data Orcheastration: Ingested bi-monthly by API through Microsoft Power Automate to SQL Database<br>
-Stakeholders: IT Security Managers and Officers | End-Users: Center and Division Leadership<br>
+Stakeholders: IT Security Managers and Officers | End-Users: Center and Division Leadership<br></i>
 <br>
 This dashboard provides metrics for application vulnerabilities with month-over-month analytics focusing on key performance indicators (KPIs) such as risk accessment, percentage of vulernability severity, number of vulnerabilities cleared versus pending/in-review,and most frequent type of vulnerability issue. This dashboard provides a monthly snapshot and summary to leadership displaying the progress of an IT Security Team with assessing an application for security weaknesses and remediating them to clear any vulnerabilities and reduce cybersecurity risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data and meeting compliance requirements.<br>
 <br>
 Mock Version: 2 version variations | Data: Synethic Data Created for Portfolio 
 <a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer"><img src="images/SSPO_Dash.png?raw=true"/>  </a><br><br> 
 
-
+---
 
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
 Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
