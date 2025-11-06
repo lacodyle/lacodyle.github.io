@@ -41,7 +41,6 @@ Platform: Python | Data Source: UCI Machine Learning Repository</i>
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Feature%20Selection%20Notebook-yellowgreen?logo=Jupyter)](projects/FeatureSelection-ObesityLevels.html)
 
 Cluster analysis was used for data exploration and classification as well as feature selection for analysis of obesity levels among adults from Mexico, Peru, and Columbia to determine which specific eating habits or daily activities most predict obesity levels. <br><br>
-<i>Team Role: Lead, Data Preprocessing, Cluster Analysis, Feature Selection, Report Writing, and Presentation </i><br>
 
 <a href="https://drive.google.com/file/d/1hnCzV_dOuIXPVfue7OwqrCxynnF-KuE2/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="images/ObesityLevels.png?raw=true"/>  
 </a>
