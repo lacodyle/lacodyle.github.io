@@ -56,7 +56,7 @@ Cluster analysis was used for data exploration and classification as well as fea
 Platform: PowerBI | Data Source: Log-style Data<br>
 Orcheastration: Data ingested by API using Power Automate to SQL Database<br>
 Stakeholders: IT Security Officers | End-Users: Leadership/Managers</i><br>
-[![View PDF]([https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1))](pdf/ITSecurity_Metrics_Dashboard_CL.pdf)
+[![View PDF](https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1)](pdf/ITSecurity_Metrics_Dashboard_CL.pdf)
 <br>
 This dashboard provides KPIs such as risk accessment and vulnerability severity through month-over-month analytics focused on remediation efforts. This dashboard provides a monthly snapshot and summary of these efforts to leadership to better understand their applications current security weaknesses, progress of remediation, and most frequent type of risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data, meeting compliance requirements, and reducing cybersecurity risks in their deployed applications. 
 <br>
