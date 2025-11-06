@@ -53,7 +53,7 @@ Cluster analysis was used for data exploration and classification as well as fea
 
 #### Dashboard: IT Security Metrics - Application Vulnerabiltiies
 <i>Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
-Platform: PowerBI | Data Source: Log-style Data<br>
+Platform: PowerBI | Data Source: Log-style data from app security platform<br>
 Orcheastration: Data ingested by API using Power Automate to SQL Database<br>
 Stakeholders: IT Security Officers | End-Users: Leadership/Managers</i><br>
 [![View PDF](https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1)](pdf/ITSecurity_Metrics_Dashboard_CL.pdf)<br>
