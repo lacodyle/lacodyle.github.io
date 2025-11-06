@@ -63,9 +63,26 @@ This dashboard provides KPIs such as risk accessment and vulnerability severity 
 <br>
 <br>
 <a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="images/SSPO_Dash.png?raw=true" style="border: 3px solid #33AB93;" alt="IT Security Metrics Dashboard"/>
+    <img src="images/SSPO_Dash.png?raw=true" style="border: 3px solid #668EE8;" alt="IT Security Metrics Dashboard"/>
 </a>
 <br><br> 
+
+---
+
+#### Dashboard: Data Governance - Tracking New IT Investments
+<i>Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
+Platform: PowerBI | Data Source: SharePoint Lists<br>
+Orcheastration: Developed Customizd SharePoint Tracker for Stakeholders<br>
+Stakeholders: IT Governance Staff | End-Users: Leadership/Managers</i><br>
+[![View PDF](https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1)](pdf/DataGovernance_Dashboard_CL.pdf)<br>
+<br>
+This dashboard provides tracking, status updates, and review of new IT investments through the data governance process focusing on follow-up efforts with investment point of contacts and funding allocation timelines. Key custom visuals in this dashboard include real-time notification displays that provide notification to end users of upcomiong follow-up dates as well as alerting staff of duration of time since follow-up for funding approval. This dashboard works in conjunction with a SharePoint tracker allowing staff to easily track and monitor key activities for a new investment as it cycles through data governance. This dashboard is critical to improve transparency, compliance, and determine enterpise performance lifecycle requirements for investments. 
+<br>
+<br>
+<a href="pdf/DataGovernance_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="images/ETDG_Dash.png?raw=true" style="border: 3px solid #33AB93;" alt="Data Governance Dashboard"/>
+</a>
+<br><br>
 
 ---
 
@@ -82,12 +99,6 @@ Analysis explores the spatial relationship between the HIV and COVID-19 in Calif
      <img src="images/spatial_analysis_hiv_covid.png?raw=true" style="border: 3px solid #CC7CB4;" alt="Spatial Analysis"/> </a><br><br>  
 
 ---
-
-
-
----
-
-
 ---
 
 <center>© 2022 Cody Le. Powered by Jekyll and Hosted on Github.</center>
