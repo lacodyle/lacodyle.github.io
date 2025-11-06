@@ -56,13 +56,13 @@ Cluster analysis was used for data exploration and classification as well as fea
 Platform: PowerBI | Data Source: Log-style Data<br>
 Orcheastration: Data ingested by API using Power Automate to SQL Database<br>
 Stakeholders: IT Security Officers | End-Users: Leadership/Managers</i><br>
-[![View PDF](https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1)](pdf/ITSecurity_Metrics_Dashboard_CL.pdf)
+[![View PDF](https://img.shields.io/badge/Adobe-View%20PDF%20Version%20of%20Dashboard%20with%20Mock%20Data-71F0E1)](pdf/ITSecurity_Metrics_Dashboard_CL.pdf)<br>
 <br>
-This dashboard provides KPIs such as risk accessment and vulnerability severity through month-over-month analytics focused on remediation efforts. This dashboard provides a monthly snapshot and summary of these efforts to leadership to better understand their applications current security weaknesses, progress of remediation, and most frequent type of risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data, meeting compliance requirements, and reducing cybersecurity risks in their deployed applications. 
+This dashboard provides KPIs such as risk accessment and vulnerability severity through month-over-month analytics focused on remediation efforts. It provides a monthly snapshot and summary of these efforts to leadership to better understand their applications current security weaknesses, progress of remediation, and most frequent type of risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data, meeting compliance requirements, and reducing cybersecurity risks in their deployed applications. 
 <br>
 <br>
 <a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="images/SSPO_Dash.png?raw=true" style="border: 2px solid #008080;" alt="IT Security Metrics Dashboard"/>
+    <img src="images/SSPO_Dash.png?raw=true" style="border: 3px solid #008080;" alt="IT Security Metrics Dashboard"/>
 </a>
 <br><br> 
 
@@ -76,7 +76,8 @@ Platform: Python / Jupyter Notebook | Data Source: Publicly available data from 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
 Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. The analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
 
-<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid" target="_blank" rel="noopener noreferrer"><img src="images/spatial_analysis_hiv_covid.png?raw=true"/> </a><br><br>  
+<a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid" target="_blank" rel="noopener noreferrer">
+     <img src="images/spatial_analysis_hiv_covid.png?raw=true" style="border: 3px solid #D98DD1;" alt="Spatial Analysis"/> </a><br><br>  
 
 ---
 
