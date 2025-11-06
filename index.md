@@ -62,7 +62,7 @@ This dashboard provides KPIs such as risk accessment and vulnerability severity 
 <br>
 <br>
 <a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="images/SSPO_Dash.png?raw=true" style="border: 3px solid #008080;" alt="IT Security Metrics Dashboard"/>
+    <img src="images/SSPO_Dash.png?raw=true" style="border: 3px solid #33AB93;" alt="IT Security Metrics Dashboard"/>
 </a>
 <br><br> 
 
@@ -77,7 +77,7 @@ Platform: Python / Jupyter Notebook | Data Source: Publicly available data from 
 Analysis explores the spatial relationship between the HIV and COVID-19 in California at the county level. The analysis focuses on analyzing new infection rates between the two epidemics and its impact on ethnic and minority groups. Through spatial clustering and outlier detection techniques, specific areas in California were determined to be more vulnerable to HIV and/or COVID-19.  LISA interactive map was created to show significant clusters affected by both infection rates and social vulnerabilities. Agglomerative clustering was performed showing areas affected by higher social vlunerability related to ethnic and minority status. <br>
 
 <a href="https://https://github.com/lacodyle/spatial_analysis_hiv_covid" target="_blank" rel="noopener noreferrer">
-     <img src="images/spatial_analysis_hiv_covid.png?raw=true" style="border: 3px solid #D98DD1;" alt="Spatial Analysis"/> </a><br><br>  
+     <img src="images/spatial_analysis_hiv_covid.png?raw=true" style="border: 3px solid #CC7CB4;" alt="Spatial Analysis"/> </a><br><br>  
 
 ---
 
