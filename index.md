@@ -72,7 +72,7 @@ This dashboard provides KPIs such as risk accessment and vulnerability severity 
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
 <i>Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
 Platform: Python | Data Source: Datasets from AIDsVu, CDPH, & CDC SVI<br>
-Platform: Python/Jupyter Notebook<br></i>
+</i>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
