@@ -52,19 +52,21 @@ Cluster analysis was used for data exploration and classification as well as fea
 ### Analytics and Visualization //
 
 #### Dashboard: IT Security Metrics - Application Vulnerabiltiies
-Developed For: CDC NCEH/ATSDR | Contribution: Individual | Platform: Microsoft PowerBI <br>
-Data Source: Log-style data from an application security platform<br>
+Developed For: CDC NCEH/ATSDR | Type: Professional | Contribution: Individual<br>
+Platform: Microsoft PowerBI | Data Source: Log-style data from an application security platform<br>
 Data Orcheastration: Ingested bi-monthly by API through Microsoft Power Automate to SQL Database<br>
 Stakeholders: IT Security Managers and Officers | End-Users: Center and Division Leadership<br>
-<br><br>
+<br>
 This dashboard provides metrics for application vulnerabilities with month-over-month analytics focusing on key performance indicators (KPIs) such as risk accessment, percentage of vulernability severity, number of vulnerabilities cleared versus pending/in-review,and most frequent type of vulnerability issue. This dashboard provides a monthly snapshot and summary to leadership displaying the progress of an IT Security Team with assessing an application for security weaknesses and remediating them to clear any vulnerabilities and reduce cybersecurity risks. This dashboard is critical in supporting IT security managers with assessment, prioritization, remediation, and validation of the the clearance process in protecting sensitive data and meeting compliance requirements.<br>
 <br>
 Mock Version: 2 version variations | Data: Synethic Data Created for Portfolio 
 <a href="pdf/ITSecurity_Metrics_Dashboard_CL.pdf" target="_blank" rel="noopener noreferrer"><img src="images/SSPO_Dash.png?raw=true"/>  </a><br><br> 
 
+
+
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
-<i>Visualized with Python for GEO448: Spatial Data Science at DPU </i> | 
-                              November 2022<br>
+Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
+Platform: Python / Jupyter Notebook | Data Source: Publicly available data from AIDsVu, CDPH, and CDC SVI<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
@@ -74,29 +76,10 @@ Analysis explores the spatial relationship between the HIV and COVID-19 in Calif
 
 ---
 
-#### Visualizing the Impact of COVID-19 on Airport Travel in the United States and Canada 
-<i>Visualized with R for DSC465: Data Visualization at DPU </i> | 
-                March 2022<br>
-[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/covid_impact_on_travel)
-[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/COVID_Impact_Airport_Travel_Report.pdf)
-[![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/COVID_impact_airport_travel.pdf)<br><br>
-Analysis compares the impact of COVID-19 on airport travel in the United States and Canada. Ridgeline and violin plots with custom color schemes were used to display dynamic statistical and geographical data. <br><br>
-<i>Team Role: Lead, Preprocessing, Ridgeline and Violin Plots </i><br>
 
-<a href="https://github.com/lacodyle/covid_impact_on_travel" target="_blank" rel="noopener noreferrer"><img src="images/covid_impact_airport_travel.png?raw=true"/> </a><br><br>
 
 ---
 
-#### Exploring Gene Expression Features through PCA and Factor Analysis in Breast Cancer Patients 
-<i>Analyzed with R for DSC424: Advanced Data Analysis at DPU </i> | 
-                June 2021<br>
-[![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/breast_cancer_gene_expression)
-[![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/GeneExpressionAnalysis_Report.pdf)
-<br><br>
-Analysis determines whether breast cancer clinicial features and gene expression features predict patient survival rates. Data was reduced using principal component analysis, factor analysis, and cluster analysis on gene expression features to better understand the predictive value of the model. <br><br>
-<i>Team Role: Lead, Preprocessing, PCA/FA Analysis, Cluster Analysis </i><br>
-
-<a href="https://github.com/lacodyle/breast_cancer_gene_expression" target="_blank" rel="noopener noreferrer"><img src="images/gene_expression.png?raw=true"/> </a>
 
 ---
 
