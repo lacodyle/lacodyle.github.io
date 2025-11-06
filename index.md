@@ -2,23 +2,24 @@
 
 ---
 
-### Machine Learning Projects //
+### Machine Learning //
 
-#### Predicting Patient Length of Stay (LOS): Classification and Optimization Models for Multi-class Target Variable 
-<i>Analyzed with Python for DSC540: Advanced Machine Learning at DPU </i> | 
-     November 2022<br>
+#### Predicting Patient Length of Stay (LOS): Optimizating Classification Models for Multi-class Target Variable 
+<i>Analyzed For: DPU CDM | Type: Academic | Contribution: Individual<br>
+Platform: Python | Data Source: Kaggle-Analytics Vidhya Healthcare Analytics</i><br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/patient_length_of_stay)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ClassificationModels-PatientLOS.html)<br><br>
-Analysis explores classification models for predicting a multi-class categorical target using various hospital related predictor features without patient demographics except patients’ age range. Extensive data preprocessing was explored including data encoding, outlier removal, and feature transformations to off set data imbalance. Tree, boosting, and histogram models were most effective for classification and optimized models using multi-class ensembles and voting ensembles were implemented. <br><br>
+Analysis explores ensemble learning optimization techniques to optimize classification models for predicting a multi-class categorical target using various hospital related predictor features without patient demographics except patients’ age range. Extensive data preprocessing was explored including data encoding, outlier removal, and feature transformations to off set data imbalance. Tree, boosting, and histogram models were most effective for classification and optimized models using multi-class ensembles and voting ensembles were implemented. <br><br>
 <a href="https://github.com/lacodyle/patient_length_of_stay" target="_blank" rel="noopener noreferrer"><img src="images/Patient_LOS.png?raw=true"/>  
 </a>
 <br>
 
 ---
 
-#### Automotive and Semiconductor Supply Chain Analysis in the United States and South Korea
-<i>Analyzed with Python for DSKUS Global Lab: Global Data Science Exchange Program </i> | 
-     June 2022<br>
+#### Automotive and Semiconductor Supply Chain Analysis: Mitigating COVID-19 Disruptions in U.S. and S.Korea
+<i>Analyzed For: DPU DSKUS | Type: Academic | Contribution: Team Lead<br>
+Platform: Python | Data Source: Trade & Manufacturing Data from Government Agencies</i>  
+<br>
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/SupplyChainAnalysis_Report.pdf)
 [![View Slide Deck](https://img.shields.io/badge/Adobe-View%20Slide%20Deck-658f36?logo=Adobe)](pdf/AutomotiveSemiconductorSupplyChainAnalysis.pdf)<br>
 <br>
@@ -31,8 +32,9 @@ Investigated the impact of COVID-19 pandemic on the supply chain by examining tr
 ---
 
 #### Obesity Level Analysis of Adult Population in Latin America 
-<i>Analyzed with Python for DSC478: Machine Learning Applications at DPU </i> | 
-     November 2021<br>
+<i>Analyzed For: DPU CDM | Type: Academic | Contribution: Team Lead<br>
+Platform: Python | Data Source: UCI Machine Learning Repository</i>
+<br>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/obesity_level_analysis)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Obesity_Level_Analysis_Report.pdf)<br>
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Cluster%20Analysis%20Notebook-yellowgreen?logo=Jupyter)](projects/ClusterAnalysis-ObesityLevels.html)
@@ -70,8 +72,8 @@ This dashboard provides KPIs such as risk accessment and vulnerability severity 
 
 #### Spatial Analysis of the Intersection of HIV and COVID-19 in California 
 <i>Visualized For: DPU CDM | Type: Academic | Contribution: Individual<br>
-Data Source: Datasets from AIDsVu, CDPH, and CDC SVI<br>
-Platform: Python / Jupyter Notebook<br></i>
+Platform: Python | Data Source: Datasets from AIDsVu, CDPH, & CDC SVI<br>
+Platform: Python/Jupyter Notebook<br></i>
 [![View in GitHub](https://img.shields.io/badge/GitHub-View%20in%20GitHub-008080?logo=github)](https://github.com/lacodyle/spatial_analysis_hiv_covid)
 [![Read Report](https://img.shields.io/badge/Adobe%20PDF-Read%20Report-CBC3E3?logo=Adobe)](pdf/Spatial_Analysis_HIV_COVID_Report.pdf)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open%20Notebook-yellowgreen?logo=Jupyter)](projects/ESDA-HIV&COVID-19.html)<br><br>
