@@ -16,7 +16,7 @@ Analysis explores ensemble learning optimization techniques to optimize classifi
 
 ---
 
-#### Automotive and Semiconductor Supply Chain Analysis: Mitigating COVID-19 Disruptions in U.S. and S.Korea
+#### Automotive and Semiconductor Supply Chain Analysis: <br>Mitigating COVID-19 Disruptions in U.S. and S.Korea
 <i>Analyzed For: DPU DSKUS | Type: Academic | Contribution: Team Lead<br>
 Platform: Python | Data Source: Various Datasets from Government Agencies</i>  
 <br>
